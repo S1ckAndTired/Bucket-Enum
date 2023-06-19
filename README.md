@@ -8,4 +8,5 @@
 
 
 <p align="center">
+<img src="https://github.com/S1ckAndTired/Bucket-Enum/assets/78124142/c0fcc6e1-4fec-4675-8de1-d17f519e2645" />
 </p>
